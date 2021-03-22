@@ -1,3 +1,6 @@
 git commit -m 'message'
 this command will return the file to the first commit
 git reset --hard
+if you want to return to spsific commit status use this command
+
+git reset --hard id_of_commit
