@@ -1,0 +1,1 @@
+To Know all about stagingArea use this command ==> git status
