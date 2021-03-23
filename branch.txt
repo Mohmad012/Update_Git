@@ -25,3 +25,11 @@ to Add All Edits That Has any branch to master branch or other branch use this c
 Switch To the branch that receve this edits for the branch 
 git checkout nameOfBranch
 git merge nameOfBranch
+
+to get copy from other branch or master use this
+go to branch
+git checkout NameOfBranch
+git rebase NameOfBranch
+
+to show options use this
+git rebase -l NameOfBranch
