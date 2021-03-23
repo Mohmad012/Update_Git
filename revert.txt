@@ -1,0 +1,2 @@
+to prevent commit special
+git revert id_of_commit

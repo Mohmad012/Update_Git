@@ -1,0 +1,6 @@
+to switch to specail commit or file or all to last commit
+git reset [file or id_of_commit or space]
+
+to make this on working directory olso
+git reset --hard [file or id_of_commit or space]
+
