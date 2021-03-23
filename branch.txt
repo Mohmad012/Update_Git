@@ -36,3 +36,8 @@ git rebase -l NameOfBranch
 
 make push to remote however found edit on remote dose not find in local
 git push --force
+
+to categoiry commits
+git log --oneline
+
+

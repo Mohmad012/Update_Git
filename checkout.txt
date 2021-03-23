@@ -1,3 +1,5 @@
 git checkout . or git checkout fileName
 this command to return the file to first status that doing on it 'git add'
 
+to switch to file in branch in special commit
+git checkout id_of_commit fileName
