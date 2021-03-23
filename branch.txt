@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Mohmad
+=======
+Hello
+>>>>>>> MakeBranch
 to make branch use this command
 git branch nameOfBranch
 
