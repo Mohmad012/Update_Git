@@ -33,3 +33,6 @@ git rebase NameOfBranch
 
 to show options use this
 git rebase -l NameOfBranch
+
+make push to remote however found edit on remote dose not find in local
+git push --force
