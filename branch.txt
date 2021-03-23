@@ -1,7 +1,7 @@
 to make branch use this command
 git branch nameOfBranch
 
-to Marge To The New Branch use this command
+to Switch To The New Branch use this command
 git checkout NameOfBranch
 
 to make request if found branches or not use this command
@@ -12,3 +12,6 @@ git branch -d nameOfBranch
 
 to delete the branch with edit that do on it use this command
 git branch -D nameOfBranch
+
+to make branch and Switch to it directly use this command
+git checkout -d NameOfBranch
