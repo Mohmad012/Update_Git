@@ -1,0 +1,14 @@
+to make branch use this command
+git branch nameOfBranch
+
+to Marge To The New Branch use this command
+git checkout NameOfBranch
+
+to make request if found branches or not use this command
+git branch
+
+to delete the branch before make edit on anything on it use this command
+git branch -d nameOfBranch
+
+to delete the branch with edit that do on it use this command
+git branch -D nameOfBranch
