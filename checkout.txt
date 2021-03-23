@@ -1,5 +1,3 @@
-Hello
-
 git checkout . or git checkout fileName
 this command to return the file to first status that doing on it 'git add'
 
