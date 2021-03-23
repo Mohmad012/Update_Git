@@ -16,3 +16,8 @@ git branch -D nameOfBranch
 
 to make branch and Switch to it directly use this command
 git checkout -d NameOfBranch
+
+to Add All Edits That Has any branch to master branch or other branch use this command
+Switch To the branch that receve this edits for the branch 
+git checkout nameOfBranch
+git merge nameOfBranch
