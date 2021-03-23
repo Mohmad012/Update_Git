@@ -1,2 +1,3 @@
+Hello
 git add . or git add fileName
 this to add all of new update on file into staging Area
