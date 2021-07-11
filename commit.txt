@@ -4,3 +4,8 @@ git reset --hard
 if you want to return to spsific commit status use this command
 
 git reset --hard id_of_commit
+
+// if you want to edit last commit in history
+git commit --amend
+
+git rebase -i HEAD~3 ==> this mean you will transffer ( HEAD ) to 3 commit in back
